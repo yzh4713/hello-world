@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		<package name="com.maven.bean"/><!-- javabean别名 -->
+	</typeAliases>
+	<!-- Mapper的位置  Mapper.xml 写Sql语句的文件的位置 -->
+	<mappers>
+		<package name="com.maven.mapper"/>
+	</mappers>
+</configuration>
