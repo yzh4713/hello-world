@@ -12,7 +12,7 @@
 
 	<properties>
 		<!-- Spring版本号 锁定版本 -->
-		<spring.version>4.3.8.RELEASE</spring.version>
+		<spring.version>5.1.8.RELEASE</spring.version>
 	</properties>
 
 	<!-- 項目jar的管理 依賴 可以添加很多依賴 -->
